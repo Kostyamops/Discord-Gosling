@@ -4,7 +4,7 @@ from discord.ext import commands
 import random
 import pathlib
 
-TOKEN = "MTE3OTA5MDEwMDc4MTU4MDMzMQ.GrqYD-.6nGv36TG5JdVeuAlOEZuvUqoD75uRyvkYLuXfM"
+TOKEN = "MTE3OTA5MDEwMDc4MTU4MDMzMQ.GTTzwj.-iPfF6fckcAduRGHNs65qJL4wmM9qlw3c2Ucro"
 PREFIX = ""
 intents = discord.Intents.all()
 bot = commands.Bot(command_prefix=PREFIX, intents=intents)
